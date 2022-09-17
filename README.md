@@ -33,7 +33,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import constantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-constantcase@deno/mod.js';
+import constantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-constantcase@v0.0.2-deno/mod.js';
 ```
 
 #### constantcase( str )
@@ -62,7 +62,7 @@ str = constantcase( 'foo_bar' );
 ## Examples
 
 ```javascript
-import constantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-constantcase@deno/mod.js';
+import constantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-constantcase@v0.0.2-deno/mod.js';
 
 var str = 'Hello World!';
 var out = constantcase( str );
