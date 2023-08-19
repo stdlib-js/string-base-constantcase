@@ -39,7 +39,7 @@
   "dependencies": {
     "@stdlib/string-base-replace": "^0.0.2",
     "@stdlib/string-base-trim": "^0.0.2",
-    "@stdlib/string-base-uppercase": "^0.0.2"
+    "@stdlib/string-base-uppercase": "^0.0.3"
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.0.8",
