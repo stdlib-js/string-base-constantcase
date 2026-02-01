@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-base-constantcase",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Convert a string to constant case.",
   "license": "Apache-2.0",
   "author": {
@@ -37,9 +37,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/string-base-replace": "^0.2.2",
-    "@stdlib/string-base-trim": "^0.2.2",
-    "@stdlib/string-base-uppercase": "^1.0.0"
+    "@stdlib/string-base-replace": "^0.2.3",
+    "@stdlib/string-base-trim": "^0.2.3",
+    "@stdlib/string-base-uppercase": "^1.0.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.2.2",
@@ -77,7 +77,6 @@
     "constant",
     "convert"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
